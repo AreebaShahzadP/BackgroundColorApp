@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-evenly',
   },
   resultTxt: {
-    fontSize: 32,
+    fontSize: 34,
     color: '#000000',
     fontWeight: '800',
   },
