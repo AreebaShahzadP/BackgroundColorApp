@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
   resultTxt: {
     fontSize: 34,
     color: '#000000',
-    fontWeight: '800',
+    fontWeight: 'bold',
   },
   rupee: {
     marginRight: 8,
